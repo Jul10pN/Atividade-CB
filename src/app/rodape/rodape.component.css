@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: rgb(27, 46, 63);
+}
+
+p{
+   
+}
+
+button {
+   color: white;
+   background-color: darkcyan;
+   height: 50px;
+   width: 100px;
+   margin-left: 50px;
+}
